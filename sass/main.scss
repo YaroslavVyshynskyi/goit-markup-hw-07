@@ -1,11 +1,12 @@
 @import './utils/vars';
 @import './base/reset';
+@import './components/container';
 
 @import './layout/header';
-@import './layout/hero;
-@import ' ./layout/features;
+@import './layout/hero';
+@import './layout/customers';
 @import './layout/directions';
-@import './layout/team;
-@import ' ./layout/customers ';
-@import ' ./layout/portfolio;
+@import './layout/team';
+@import './layout/customers';
+@import './layout/portfolio';
 @import './layout/footer';
