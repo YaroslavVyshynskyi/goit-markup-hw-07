@@ -1,4 +1,4 @@
-:root {
+ /* :root {
   --logo-part1-color: #2196f3;
   --logo-part2-color-dark: #000000;
   --logo-part2-color-light: #ffffff;
@@ -94,7 +94,7 @@ img {
 }
 
 /*---------------------HEADER---------------------*/
-
+/* 
 .header {
   border-bottom: 1px solid #ececec;
 }
@@ -220,7 +220,7 @@ img {
 
 /*---------------------HERO---------------------*/
 
-.hero__section {
+/* .hero__section {
   background-color: #c4c4c4;
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url(../images/Hero-bg.jpg);
@@ -250,11 +250,11 @@ img {
 .hero__button:hover,
 .hero__button:focus {
   background-color: #188ce8;
-}
+} */
 
 /*---------------------FEATURES---------------------*/
 
-.features__section {
+/* .features__section {
   padding-bottom: 0px;
 }
 
@@ -300,11 +300,11 @@ img {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--text-main-color);
-}
+} */
 
 /*---------------------DIRECTIONS---------------------*/
 
-.directions__title {
+/* .directions__title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
@@ -350,11 +350,11 @@ img {
   letter-spacing: 0.03em;
   color: #ffffff;
   text-transform: uppercase;
-}
+} */
 
 /*---------------------TEAM---------------------*/
 
-.team__section {
+/* .team__section {
   background-color: #f5f4fa;
 }
 
@@ -444,11 +444,11 @@ img {
 
 .social-networks__icon {
   fill: currentColor;
-}
+} */
 
 /*---------------------CASTOMERS---------------------*/
 
-.castomers__title {
+/* .castomers__title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -495,11 +495,11 @@ img {
 
 .castomers__icon {
   fill: currentColor;
-}
+} */
 
 /*---------------------FOOTER---------------------*/
 
-.footer {
+/* .footer {
   background: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -596,11 +596,11 @@ img {
   transform: translateY(-50%);
   fill: var(--btn-text-color);
   margin-left: 10px;
-}
+} */
 
 /*---------------------MODAL FORM---------------------*/
 
-.backdrop {
+/* .backdrop {
   width: 100vw;
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.2);
@@ -665,7 +665,7 @@ img {
   pointer-events: none;
 }
 
-.madal__title {
+.modal__title {
   font-family: inherit;
   font-weight: 700;
   font-size: 20px;
@@ -806,11 +806,11 @@ img {
 .modal-form__button:focus {
   background-color: #188ce8;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-}
+} */
 
 /*---------------------PORTFOLIO---------------------*/
 
-.portfolio-filter__list {
+/* .portfolio-filter__list {
   display: flex;
   margin: 0 auto 34px;
   justify-content: center;
@@ -924,4 +924,4 @@ img {
   letter-spacing: 0.03em;
   color: var(--text-main-color);
   margin-top: 4px;
-}
+} */ */
